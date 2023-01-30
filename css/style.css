@@ -216,6 +216,17 @@ input,
     .step {
         width: 85%;
         margin: auto;
+
+    }
+    .step{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .step-caption{
+        text-align: center;
+        margin-top: 15px;
     }
 }
 
@@ -364,7 +375,14 @@ input,
     .benefit{
         width: 75%;
         margin: 10px auto;
+        display: flex;
+        flex-direction: column;
     }
+    .benefit p{
+        text-align: center;
+    }
+
+
 }
 
 
