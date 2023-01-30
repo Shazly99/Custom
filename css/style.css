@@ -379,6 +379,8 @@ input,
         flex-direction: column;
     }
     .benefit p{
+
+        margin-top: 15px ;
         text-align: center;
     }
 
