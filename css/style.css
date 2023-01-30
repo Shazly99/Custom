@@ -354,7 +354,7 @@ input,
 .benefit span{
     padding: 10px;
     margin-left: 10px;
-    /* background-color: #fff; */
+    background-color: #fff;
     border-radius: 50%;
     display: flex;
     justify-content: center;
